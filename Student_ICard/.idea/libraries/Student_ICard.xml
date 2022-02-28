@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Student_ICard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Student_ICard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
